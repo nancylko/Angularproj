@@ -12,7 +12,9 @@
     padding: 1vw;
     margin-left: 1vw;
 }
-
+b{
+    font-size: 90%;
+}
 @media (min-width: 992px) and (max-width: 1024px){
 .col-md-3 {
     width: 100%!important;
